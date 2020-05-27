@@ -16,3 +16,7 @@ So now, instead of “Would you like to speak to a customer representative?” w
 
 To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important and what is not.
 This will improve the answers returned from the queries.
+
+You Tube link: https://youtu.be/kzjYm9xP7rI
+
+Node Red Dashboard link: https://node-red-utmnz.eu-gb.mybluemix.net/ui/#!/0?socketid=FB1DTqpWRHdM64RyAACL
